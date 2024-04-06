@@ -1,0 +1,1 @@
+start cmd.exe /k RASFF.exe --list-countries
